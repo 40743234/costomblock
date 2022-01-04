@@ -1,0 +1,8 @@
+{
+    "tools|block": "工具",
+    "tools.shownumberplus|block": "顯示A+B數值  %A| %B",
+    "tools.numberplus|block": "回傳A+B數值  %A| %B",
+    "tools.PauseFreq|block": "延遲 %freq 毫秒",
+    "tools.MathMenu|block":"數字A %oper 數字B"
+}
+
